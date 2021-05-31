@@ -3,7 +3,7 @@
 
 1.1. write the following code in google collab and hit run - 
 '
-from google.collab import files 
+from google.colab import files 
 uploaded = files.upload()
 '
 the above code will ask you to choose file from your local drive to uplaod on the google drive.
